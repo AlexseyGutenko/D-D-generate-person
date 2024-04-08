@@ -1,0 +1,10 @@
+C:\Users\guten\.1.программирование\D&D\D&D\bin\Debug\D&D.exe.config
+C:\Users\guten\.1.программирование\D&D\D&D\bin\Debug\D&D.exe
+C:\Users\guten\.1.программирование\D&D\D&D\bin\Debug\D&D.pdb
+C:\Users\guten\.1.программирование\D&D\D&D\obj\Debug\D&D.csproj.AssemblyReference.cache
+C:\Users\guten\.1.программирование\D&D\D&D\obj\Debug\D_D.Properties.Resources.resources
+C:\Users\guten\.1.программирование\D&D\D&D\obj\Debug\D&D.csproj.GenerateResource.cache
+C:\Users\guten\.1.программирование\D&D\D&D\obj\Debug\D&D.csproj.CoreCompileInputs.cache
+C:\Users\guten\.1.программирование\D&D\D&D\obj\Debug\D&D.exe
+C:\Users\guten\.1.программирование\D&D\D&D\obj\Debug\D&D.pdb
+C:\Users\guten\.1.программирование\D&D\D&D\obj\Debug\D_D.Form1.resources
